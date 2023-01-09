@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T23:27:41 IST" name="flipkart" finished-at="2023-01-09T23:29:25 IST" duration-ms="104429">
+    <groups>
+      <group name="HomePage">
+        <method signature="AdvertiseTest.testAdvertisement()[pri:0, instance:flipkart.TestCases.AdvertiseTest@4c168660]" name="testAdvertisement" class="flipkart.TestCases.AdvertiseTest"/>
+        <method signature="AdvertiseTest.testBrand()[pri:1, instance:flipkart.TestCases.AdvertiseTest@4c168660]" name="testBrand" class="flipkart.TestCases.AdvertiseTest"/>
+      </group> <!-- HomePage -->
+    </groups>
+    <test started-at="2023-01-09T23:27:41 IST" name="Functional" finished-at="2023-01-09T23:29:25 IST" duration-ms="104429">
+      <class name="flipkart.TestCases.AdvertiseTest">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkart.TestCases.AdvertiseTest@4c168660]" started-at="2023-01-09T23:27:41 IST" name="setup" finished-at="2023-01-09T23:28:29 IST" duration-ms="47596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkart.TestCases.AdvertiseTest.testAdvertisement() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAdvertisement()[pri:0, instance:flipkart.TestCases.AdvertiseTest@4c168660]" started-at="2023-01-09T23:28:29 IST" name="testAdvertisement" finished-at="2023-01-09T23:28:35 IST" duration-ms="6036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdvertisement -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.TestCases.AdvertiseTest@4c168660]" started-at="2023-01-09T23:28:35 IST" name="status" finished-at="2023-01-09T23:28:36 IST" duration-ms="870" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAdvertisement status=SUCCESS method=AdvertiseTest.testAdvertisement()[pri:0, instance:flipkart.TestCases.AdvertiseTest@4c168660] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method)[pri:0, instance:flipkart.TestCases.AdvertiseTest@4c168660]" started-at="2023-01-09T23:28:36 IST" name="setup" finished-at="2023-01-09T23:29:21 IST" duration-ms="45311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void flipkart.TestCases.AdvertiseTest.testBrand() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testBrand()[pri:1, instance:flipkart.TestCases.AdvertiseTest@4c168660]" started-at="2023-01-09T23:29:21 IST" name="testBrand" finished-at="2023-01-09T23:29:25 IST" duration-ms="3861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBrand -->
+        <test-method is-config="true" signature="status(org.testng.ITestResult)[pri:0, instance:flipkart.TestCases.AdvertiseTest@4c168660]" started-at="2023-01-09T23:29:25 IST" name="status" finished-at="2023-01-09T23:29:25 IST" duration-ms="709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testBrand status=SUCCESS method=AdvertiseTest.testBrand()[pri:1, instance:flipkart.TestCases.AdvertiseTest@4c168660] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- status -->
+      </class> <!-- flipkart.TestCases.AdvertiseTest -->
+    </test> <!-- Functional -->
+  </suite> <!-- flipkart -->
+</testng-results>
