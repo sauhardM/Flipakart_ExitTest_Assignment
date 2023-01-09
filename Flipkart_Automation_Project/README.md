@@ -1,4 +1,4 @@
-#Flipkart Automation Exit Test Assignment
+# Flipkart Automation Exit Test Assignment
 
 <hr>
 
@@ -6,7 +6,7 @@
 
 https://github.com/sauhardM/Flipakart_ExitTest_Assignment
 
-##Requirements :-
+## Requirements :-
 
 - JDK needs to be installed in your local machine and path needs to be set in your local machine.
 
@@ -18,13 +18,13 @@ https://github.com/sauhardM/Flipakart_ExitTest_Assignment
 
 <hr>
 
-##TestNG installion in eclipse :-
+## TestNG installion in eclipse :-
 
 - Refer to the file "TestNG installion in Eclipse.docx" availabe in folder [Flipkart_Automation_Project//Resources].
 
 <hr>
 
-##Steps to intall the project :-
+## Steps to intall the project :-
 
 - Unzip or extract the .zip File.
 
@@ -41,7 +41,7 @@ https://github.com/sauhardM/Flipakart_ExitTest_Assignment
 
 <hr>
 
-##Running the test cases :-
+## Running the test cases :-
 
 - Test cases will run in two modes GUI and Headless.
 
@@ -66,13 +66,13 @@ https://github.com/sauhardM/Flipakart_ExitTest_Assignment
 
 <hr>
 
-##ScreenShots :-
+## ScreenShots :-
 
 - ScreenShots of the failed test cases will be available inside the folder [Flipkart_Automation_Project//ScreenShots]
 
 <hr>
 
-##Reports :-
+## Reports :-
 
 - Reports of the test cases will be updated after every execution of that particular testcase.
 
@@ -81,6 +81,6 @@ https://github.com/sauhardM/Flipakart_ExitTest_Assignment
 - Double click the Extent_demo.html file to open the report in your default browser.
 
 
-##Jars:-
+## Jars:-
 
 External jars have been created and used, you can find the jar file named "ReadFilePropertiesJarFile.jar".
